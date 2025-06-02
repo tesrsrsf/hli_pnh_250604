@@ -21,10 +21,21 @@ def save_to_file(results):
 
 def display_ans_question(people, name=None):
     skipping = False
+    if name is not None:
+        skipping = True
+
     for person in people:
         i = 0
+        if skipping and person == name:
+            print(f"Continuing from the FIRST question of {name}\n"
+                  f"This was the last person proceeded last time\n"
+                  )
+            skipping = False
+        else:
+            continue
+
         for question in people[person]:
-            print('\n\n========== QUESTION STARTS HERE ==========\n')
+            print('========== QUESTION STARTS HERE ==========\n')
             print(f'{person}: {i + 1}/{len(people[person])}\n')
             for line in question:
                 print(f"{line}: {question[line]}")
@@ -69,7 +80,15 @@ def get_progress():
     return name
 
 
+def print_helpers():
+    print(f"Type \'SKIP\' to skip current question\n"
+          f"Type \'EXIT\' to save current progress and leave\n"
+          )
+
+
 def main():
+    print_helpers()
+
     people = read_people()['china']
     name = get_progress()
     display_ans_question(people, name)
