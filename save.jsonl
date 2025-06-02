@@ -1,0 +1,49 @@
+{"name": "Confucius", "num": 0, "q": "When were you born?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Confucius", "num": 1, "q": "What was your courtesy name?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Confucius", "num": 2, "q": "Where were you born?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Confucius", "num": 3, "q": "What was your father's occupation?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Confucius", "num": 4, "q": "What was one of your primary philosophical influences?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Confucius", "num": 5, "q": "How old was your father when he met your mother?", "p1": "O", "p2": "O", "p3": "X (5,6,7,8)"}
+{"name": "Confucius", "num": 6, "q": "At what age did your father pass away?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Confucius", "num": 7, "q": "What was the status of your family lineage before moving to Lu?", "p1": "O", "p2": "O", "p3": "X (5,6,7,8)"}
+{"name": "Confucius", "num": 8, "q": "What kind of work did you do in your early years?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Qin Shi Huang", "num": 0, "q": "When were you born?", "p1": "O", "p2": "O", "p3": "X (3,4)"}
+{"name": "Qin Shi Huang", "num": 1, "q": "What was your birth name?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Qin Shi Huang", "num": 2, "q": "What dynasty did you found?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Qin Shi Huang", "num": 3, "q": "When did you begin your reign as the emperor?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Qin Shi Huang", "num": 4, "q": "Who was the regent during the early years of your reign?", "p1": "O", "p2": "O", "p3": "X (5,6,8)"}
+{"name": "Qin Shi Huang", "num": 5, "q": "What major construction did you complete during your reign?", "p1": "O", "p2": "X (3)", "p3": "O"}
+{"name": "Qin Shi Huang", "num": 6, "q": "What was one of your ambitions regarding life and death?", "p1": "O", "p2": "O", "p3": "X (1,2,4)"}
+{"name": "Qin Shi Huang", "num": 7, "q": "What was one of your achievements in unifying China?", "p1": "O", "p2": "O", "p3": "X (1,2,3,4,5,6,7,8)"}
+{"name": "Qin Shi Huang", "num": 8, "q": "Which state did you first conquer during your military campaigns?", "p1": "O", "p2": "O", "p3": "X (5,7,8)"}
+{"name": "Qin Shi Huang", "num": 9, "q": "Which state's defeat marked the completion of your unification of China?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Fan Bingbing", "num": 0, "q": "When were you born?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Fan Bingbing", "num": 1, "q": "Where were you born?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Fan Bingbing", "num": 2, "q": "What is your occupation?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Fan Bingbing", "num": 3, "q": "How many siblings do you have?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Fan Bingbing", "num": 4, "q": "When did you debut as a singer?", "p1": "X", "p2": "X (3)", "p3": "O"}
+{"name": "Fan Bingbing", "num": 5, "q": "Which award did you win for 'Cell Phone'?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Fan Bingbing", "num": 6, "q": "What was your role in the film 'My Way'?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Fan Bingbing", "num": 7, "q": "What year were you named in Forbes' Chinese Celebrity Top 10?", "p1": "O", "p2": "X (2,3,4,5,6,7,8)", "p3": "O"}
+{"name": "Fan Bingbing", "num": 8, "q": "Which film did I appear in with Andy Lau?", "p1": "X", "p2": "O (6)", "p3": "O"}
+{"name": "Fan Bingbing", "num": 9, "q": "Which role did I play in 'My Fair Princess'?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Leslie Cheung", "num": 0, "q": "When were you born?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Leslie Cheung", "num": 1, "q": "Where did you study textile management?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Leslie Cheung", "num": 2, "q": "When did you debut as a singer?", "p1": "O", "p2": "O", "p3": "X (5,6,7)"}
+{"name": "Leslie Cheung", "num": 3, "q": "What song did you sing at the Asian Music Contest?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Leslie Cheung", "num": 4, "q": "How many times did you visit South Korea?", "p1": "X", "p2": "X (3,5)", "p3": "O"}
+{"name": "Leslie Cheung", "num": 5, "q": "When did you join Hong Kong RTV?", "p1": "O", "p2": "O", "p3": "X (5,6,7,8)"}
+{"name": "Leslie Cheung", "num": 6, "q": "When did you retire from singing initially?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Leslie Cheung", "num": 7, "q": "Where did you live after retiring from singing in 1990?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Leslie Cheung", "num": 8, "q": "When did you resume your singing career?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Leslie Cheung", "num": 9, "q": "What did you focus on after stopping regular music releases?", "p1": "O", "p2": "O", "p3": "X (5,7)"}
+{"name": "Lin Daiyu", "num": 0, "q": "What is your name?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Lin Daiyu", "num": 1, "q": "Where were you born?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Lin Daiyu", "num": 2, "q": "Who are your parents?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Lin Daiyu", "num": 3, "q": "How did you come to live with the Jia family?", "p1": "O", "p2": "O", "p3": "X (5,6)"}
+{"name": "Lin Daiyu", "num": 4, "q": "What was your relationship with Jia Baoyu like?", "p1": "O", "p2": "O", "p3": "X (5,6,7,8),(1,4)"}
+{"name": "Lin Daiyu", "num": 5, "q": "Do you often write poetry?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Lin Daiyu", "num": 6, "q": "How was your health during childhood?", "p1": "O", "p2": "O", "p3": "X (1,3,4),(2,5,6,7,8)"}
+{"name": "Lin Daiyu", "num": 7, "q": "What was your life like at the Grand View Garden?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Lin Daiyu", "num": 8, "q": "Did you marry Jia Baoyu?", "p1": "O", "p2": "O", "p3": "O"}
+{"name": "Lin Daiyu", "num": 9, "q": "How did your parting with Jia Baoyu happen?", "p1": "O", "p2": "O", "p3": "X (2,6,8),(3,7)"}
