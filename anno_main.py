@@ -31,7 +31,7 @@ def display_ans_question(people, name=None):
                   f"This was the last person proceeded last time\n"
                   )
             skipping = False
-        else:
+        elif skipping:
             continue
 
         for question in people[person]:
@@ -92,6 +92,7 @@ def main():
     people = read_people()['china']
     name = get_progress()
     display_ans_question(people, name)
+    save_to_file(results)
     # print(people)
 
 
